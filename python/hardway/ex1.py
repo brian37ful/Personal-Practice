@@ -1,0 +1,1 @@
+print "Hello," + " I like typing this." + " I'd much rather you 'not'."

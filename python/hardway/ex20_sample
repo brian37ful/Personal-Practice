@@ -1,0 +1,4 @@
+I suspect the ++ and -- operators were left out for consistency and simplicity. I don't know the exact
+Simpler parsing. Technically, parsing ++count is ambiguous, as it could be +, +, count (two unary +
+Simpler language. ++ is nothing more than a synonym for += 1. It was a shorthand invented because C
+Confusing side-effects. One common newbie error in languages with ++ operators is mixing up the
